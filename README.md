@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/followers/arioprima?label=Followers&style=social" alt="GitHub Badge">
 </a>
 
-<h1 style="text-align:center;border:0;font-family:'Poppins',sans-serif;font-weight:600;letter-spacing:1.2px;" align="center">Hi! I'm Ibnu Choldun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1 style="text-align:center;border:0;font-family:'Poppins',sans-serif;font-weight:600;letter-spacing:1.2px;" align="center">Hi! I'm Ario Prima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 I'm a passionate Full Stack Developer from Indonesia.
 - 🔭 I’m currently studying on <a href="https://unsika.ac.id/">Universitas Singaperbangsa Karawang</a>
